@@ -24,4 +24,21 @@ h3{color:paleturquoise;
 .june{color: firebrick;
 
 }
-.white{color: olive;}
+.white{color:darkolivegreen;
+}
+table,th,td{border:1px solid black;
+            width:50%;}       
+nav{text-align:center;
+    justify-content:center;
+    padding:0;
+    margin:0;
+    font-weight:bold;
+     }
+
+
+
+
+
+
+
+
